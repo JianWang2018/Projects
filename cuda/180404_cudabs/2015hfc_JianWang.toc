@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {british}
+\beamer@sectionintoc {1}{Introduction to the GPU architecture}{3}{0}{1}
+\beamer@sectionintoc {2}{GPU/CUDA programming model}{11}{0}{2}
+\beamer@sectionintoc {3}{Option pricing with GPU}{26}{0}{3}
+\beamer@sectionintoc {4}{Summary}{37}{0}{4}
