@@ -1,0 +1,7 @@
+cat: hpc-15-37: No such file or directory
+/panfs/storage.local/statistics/home/jw09r/gpu_bs
+Depth of the tree NUM_STEPS = 2048
+grid structure: <<<1024, 128>>>
+Starting the GPU code...
+GPU code failed no CUDA-capable device is detected
+srun: error: hpc-15-37: task 0: Exited with exit code 255

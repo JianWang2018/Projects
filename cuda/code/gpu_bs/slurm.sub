@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH -n 1
+#SBATCH -J "gpu"
+#SBATCH -p gpu_q
+#SBATCH --mail-type="ALL"
+#SBATCH -t 48:00:00
+
+
+
+cat $SLURM_JOB_NODELIST
+pwd
+srun -n1 ./gpu

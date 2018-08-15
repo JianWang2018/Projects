@@ -1,0 +1,2 @@
+blockdim = (4, 1, 1)
+griddim  = (4, 1, 1)

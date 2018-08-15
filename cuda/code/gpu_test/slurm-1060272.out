@@ -1,0 +1,5 @@
+/panfs/storage.local/statistics/home/jw09r/gpu/gpu_test/./a.out running...
+number of devices: 0
+maxThreadsPerBlock = 20762752
+max block dimension (0, -585760032, 10948)
+max grid dimension (18, 0, -585787210)
