@@ -1,7 +1,7 @@
 # Cuda for option pricing
 
 ## Description:  
-Calculate European call option via using binomial method based on Cuda GPU 
+Calculate European call option price via using binomial tree method based on Cuda GPU 
 
 ppt: https://github.com/JianWang2018/Projects/blob/master/cuda/ppt/cuda_option.pdf
 
