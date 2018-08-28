@@ -4,9 +4,13 @@
 My choice is N=100000000.
 
 Thread Number 	Computing time
+
 1	              10.405875
+
 2	              5.992353
+
 4	              4.063664
+
 8	              4.383599
 
 ```cpp
