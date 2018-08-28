@@ -9,7 +9,7 @@ Thread Number 	Computing time
 4	              4.063664
 8	              4.383599
 
- 
+```cpp
 1. OpenMP Trapezoidal Rule: 
 // OpenMPTrapezoidal.cpp : Defines the entry point for the console application.
 //
@@ -97,5 +97,5 @@ int main()
         printf("error bound in Simpson Rule is: %0.8f\n", E);
         return 0;
     }
-
+```
 
